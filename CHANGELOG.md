@@ -1,4 +1,4 @@
-v12:
+v13:
 - Added spanish lang for AppVault(MIUI 14 CN)
 - Added untraslated spanish strings on Settings
 
