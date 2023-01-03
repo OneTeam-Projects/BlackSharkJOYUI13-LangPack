@@ -1,7 +1,7 @@
 id=blackshark-joyui13-conv
-name=Patch for Black Shark JoyUI 13 CN
-version=v11
-versionCode=11
+name=# - Patch for Black Shark JoyUI 13 CN
+version=v12
+versionCode=12
 author=ONETeam
 description=JoyUI China to Global Language Pack
 updateJson=https://raw.githubusercontent.com/OneTeam-Projects/BlackSharkJOYUI13-LangPack/master/update.json
