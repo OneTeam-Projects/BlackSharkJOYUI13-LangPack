@@ -1,3 +1,7 @@
+v15:
+- Added BlackShark Account with spanish lang
+
+
 v14:
 - Added spanish lang for AppVault(MIUI 14 CN)
 - Added untraslated spanish strings on Settings
